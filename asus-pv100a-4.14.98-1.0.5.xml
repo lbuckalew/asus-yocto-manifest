@@ -23,7 +23,7 @@
      <linkfile src="imx/tools/fsl-setup-release.sh" dest="fsl-setup-release.sh"/>
      <linkfile src="imx/README"                     dest="README-IMXBSP"/>
   </project>
-  <project remote="OSSystems" revision="75640e14e325479c076b6272b646be7a239c18aa" name="meta-browser"            path="sources/meta-browser" />
+  <!-- <project remote="OSSystems" revision="75640e14e325479c076b6272b646be7a239c18aa" name="meta-browser"            path="sources/meta-browser" /> -->
   <project remote="QT5"       revision="d4e7f73d04e8448d326b6f89908701e304e37d65" name="meta-qt5"                path="sources/meta-qt5" />
   <project remote="rust"      revision="c72b2dda3a4f70ed257c7de9bedb4b04732970a4" name="meta-rust"               path="sources/meta-rust"/>
   <!-- <project remote="yocto"     revision="ed2038c935777d1336c17989d454f4e9c95fea7f" name="meta-virtualization"     path="sources/meta-virtualization"/>  
